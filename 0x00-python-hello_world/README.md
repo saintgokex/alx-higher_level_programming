@@ -1,1 +1,1 @@
-this is my first time coding in python
+0x00-python-hello_world read me
